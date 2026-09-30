@@ -1,0 +1,14 @@
+{
+  "name": "note-catcher",
+  "version": "0.5.0",
+  "private": true,
+  "description": "Max for Live MIDI note selection and remapping",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/engine.cjs",
+    "build": "node scripts/build.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

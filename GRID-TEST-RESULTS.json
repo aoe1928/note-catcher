@@ -1,0 +1,72 @@
+{
+  "version": "0.5",
+  "environment": "Windows / Live 11.3.43 / Max 8.5.8",
+  "actualMidi": {
+    "multi": {
+      "passed": true,
+      "events": [
+        [
+          36,
+          100
+        ],
+        [
+          36,
+          0
+        ],
+        [
+          40,
+          90
+        ],
+        [
+          40,
+          0
+        ]
+      ]
+    },
+    "all": {
+      "passed": true,
+      "events": [
+        [
+          36,
+          100
+        ],
+        [
+          36,
+          0
+        ],
+        [
+          40,
+          90
+        ],
+        [
+          40,
+          0
+        ],
+        [
+          28,
+          80
+        ],
+        [
+          28,
+          0
+        ],
+        [
+          36,
+          70
+        ],
+        [
+          36,
+          0
+        ]
+      ]
+    }
+  },
+  "automated": [
+    "Multi filtering and remapping",
+    "Late note-offs after mapping changes",
+    "Many-to-one overlapping outputs",
+    "All mode / channels / boundary notes",
+    "Single and disabled-state note release"
+  ],
+  "timing": "Diagnostic timestamps are not sample-accurate. High-load timing is not verified."
+}

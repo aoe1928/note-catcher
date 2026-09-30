@@ -1,0 +1,1 @@
+Keep README.md (English primary) and README.ja.md synchronized, with reciprocal links. Original code and documentation are MIT; artwork and screenshots are excluded under the separate asset notices. Never add user Live Sets, credentials, or diagnostic tools with personal paths. Run npm test and npm run build after device changes.
